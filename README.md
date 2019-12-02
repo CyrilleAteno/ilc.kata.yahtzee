@@ -1,5 +1,7 @@
 # Yam's 2019-2020
 
+Boris Bordeaux
+
 Kata d'utilisation des tests
 
 Le yahtzee (aussi orthographié yatzee, yatzy) ou le yam's pour les puristes, est un jeu de société traditionnel de hasard raisonné.
