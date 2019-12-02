@@ -1,6 +1,6 @@
 # Yam's 2019-2020
 
-Kata d'utilisation des tests
+Kata d'utilisation des tests.
 
 Le yahtzee (aussi orthographié yatzee, yatzy) ou le yam's pour les puristes, est un jeu de société traditionnel de hasard raisonné.
 Le but est d'enchaîner les combinaisons à l'aide de cinq dés pour remporter un maximum de points. 
